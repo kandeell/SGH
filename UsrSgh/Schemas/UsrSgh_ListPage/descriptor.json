@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "cf27e204-701b-4c6f-945c-c0ac59f237f6",
+    "Name": "UsrSgh_ListPage",
+    "ModifiedOnUtc": "\/Date(1790090275000)\/",
+    "Parent": {
+      "UId": "b7b898d0-8c77-4953-c097-23fa6800da02",
+      "Name": "ListPageV3Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Sgh list page",
+    "DependsOn": []
+  }
+}

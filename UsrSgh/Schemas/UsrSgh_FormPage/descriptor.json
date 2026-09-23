@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "5d8713bd-39da-4ee1-94b9-c89dba195f00",
+    "Name": "UsrSgh_FormPage",
+    "ModifiedOnUtc": "\/Date(1790090275000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Sgh form page",
+    "DependsOn": []
+  }
+}

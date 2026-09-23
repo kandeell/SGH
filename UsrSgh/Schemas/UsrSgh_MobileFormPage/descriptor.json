@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "df1ce9e2-6ff5-4e77-9192-3eb639aed663",
+    "Name": "UsrSgh_MobileFormPage",
+    "ModifiedOnUtc": "\/Date(1790090275000)\/",
+    "Parent": {
+      "UId": "019c694a-1a3b-4812-b2e5-219b326061ae",
+      "Name": "MobilePageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Sgh mobile form page",
+    "DependsOn": []
+  }
+}

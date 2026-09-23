@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "36f959eb-8777-480a-bc1e-8740a625ab69",
+    "Name": "UsrSgh_Detail",
+    "ModifiedOnUtc": "\/Date(1790090275000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Sgh detail",
+    "DependsOn": []
+  }
+}

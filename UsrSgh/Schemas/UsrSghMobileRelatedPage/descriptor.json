@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "1fe687e1-33eb-4d7e-b0e0-ba6914dbbc91",
+    "Name": "UsrSghMobileRelatedPage",
+    "ModifiedOnUtc": "\/Date(1790090275000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Sgh (Mobile page settings)",
+    "DependsOn": []
+  }
+}

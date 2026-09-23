@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "1f47a45a-0a1b-4a3b-b1c1-4b96b72cc7ad",
+    "Name": "UsrSghRelatedPage",
+    "ModifiedOnUtc": "\/Date(1790090275000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Sgh (Page settings)",
+    "DependsOn": []
+  }
+}

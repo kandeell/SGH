@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "2c655ec3-b4e7-41da-8131-cdc672ce3348",
+    "Name": "UsrSgh_MobileListPage",
+    "ModifiedOnUtc": "\/Date(1790090275000)\/",
+    "Parent": {
+      "UId": "011e7dda-a763-4535-9b9a-e09eddd047be",
+      "Name": "BaseMobileListTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Sgh mobile list page",
+    "DependsOn": []
+  }
+}
